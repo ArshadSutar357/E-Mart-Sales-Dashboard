@@ -33,4 +33,4 @@ iii) Profitable Niches: Printers generate the highest profit among sub-categorie
 iv) Seasonal Drops: Summer months show significant profit dips needing promotions.
 
 # Screenshot :
-Preview of Dashboard : https://github.com/ArshadSutar357/E-Mart-Sales-Dashboard/blob/main/E-Mart%20Sales%20Dashboard.png
+Preview of Dashboard : [https://github.com/ArshadSutar357/E-Mart-Sales-Dashboard/blob/main/E-Mart%20Sales%20Dashboard.png](https://github.com/ArshadSutar357/E-Mart-Sales-Dashboard/blob/main/E-Mart%20Sales%20Dashboard.png)
